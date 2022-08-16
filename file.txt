@@ -1,4 +1,11 @@
 Hola empezamos hablando sobre mi.
 Mi nombre es Enrique Mendez.
+<<<<<<< HEAD
 Mi edad es de 32 anhios y cumplire 33 el dia 28 de Agosto del 
 2022.
+=======
+
+mi edad es 32
+
+mi nacionalidad es cubana
+>>>>>>> experiment
