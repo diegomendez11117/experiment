@@ -1,1 +1,2 @@
-Mi nombre es Enrique
+Mi nombre es Enrique.
+Soy programador.
